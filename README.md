@@ -1,1 +1,1 @@
-# data_structurre
+# exercise data structure in C language 
